@@ -34,6 +34,3 @@ The pipeline performs:
 
 - **Accuracy computation**  
   Compares the produced mask with a **ground-truth mask** and prints the **pixel-wise accuracy (coefficient)**.
-
-The script currently reads:
-
